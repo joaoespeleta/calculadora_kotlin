@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ice_200">#bfe0e2</color>
+    <color name="ice_500">#438e96</color>
+    <color name="ice_700">#356169</color>
+    <color name="nebula_200">#c7dad9</color>
+    <color name="nebula_700">#415c5d</color>
+    <color name="black">#ff000000</color>
+    <color name="white">#ffffffff</color>
+
+    <color name="back1">#8d8b81</color>
+    <color name="back2">#6c6b60</color>
+    <color name="back3">#46463f</color>
+    <color name="soft_delta">#52b2ff</color>
+
+    <color name="buttom01">#0FC2C0</color>
+    <color name="buttom02">#008F8C</color>
+
+
+</resources>
